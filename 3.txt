@@ -323,6 +323,19 @@
 
 院线电影,#genre#
 院线电影,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
+哪吒之魔童闹海预告片,http://ltcottcdnfh.ln.chinamobile.com/34/16/88888888/280777718/index.m3u8
+哪吒2-标清,http://ltcottcdnfh.ln.chinamobile.com/113/16/88888888/281965600/index.m3u8
+哪吒2-4KHDR,http://ltcottcdnfh.ln.chinamobile.com/50/16/88888888/281960603/index.m3u8
+水饺皇后,http://ltcottcdnfh.ln.chinamobile.com/50/16/88888888/281787180/index.m3u8
+时间之子,http://ltcottcdnfh.ln.chinamobile.com/113/16/88888888/281903719/index.m3u8
+私家侦探,http://ltcottcdnfh.ln.chinamobile.com/88888892/16/88888888/281852630/index.m3u8
+海底小纵队:海啸大危机,http://ltcottcdnfh.ln.chinamobile.com/50/16/88888888/281928014/index.m3u8
+多幸运遇见你,http://ltcottcdnfh.ln.chinamobile.com/50/16/88888888/281916084/index.m3u8
+罗小黑战记,http://ltcottcdnfh.ln.chinamobile.com/50/16/88888888/278951878/index.m3u8
+我的世界大电影(国语),http://ltcottcdnfh.ln.chinamobile.com/88888892/16/88888888/281797955/index.m3u8
+我的世界大电影(原音),http://ltcottcdnfh.ln.chinamobile.com/88888892/16/88888888/281798797/index.m3u8
+谍网追凶(国语),http://ltcottcdnfh.ln.chinamobile.com/50/16/88888888/281899837/index.m3u8
+谍网追凶(原音),http://ltcottcdnfh.ln.chinamobile.com/50/16/88888888/281894141/index.m3u8
 不说话的爱 (2025),http://hwottcdn.ln.chinamobile.com/113/16/20250516/281444347/index.m3u8
 超级望望‎ (2025),http://hwottcdn.ln.chinamobile.com/113/16/20250311/281043018/index.m3u8
 第二十条‎ (2024),http://hwottcdn.ln.chinamobile.com/88888892/16/20241218/280614516/index.m3u8
