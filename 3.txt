@@ -11,11 +11,38 @@
 地球超新鲜-预告片,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281860592/index.m3u8
 地球超新鲜-1上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281920062/index.m3u8
 地球超新鲜-1下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281921831/index.m3u8
+地球超新鲜-2上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281966765/index.m3u8
+地球超新鲜-2下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281974867/index.m3u8
+
+向山海出发 第1季,#genre#
+向山海出发 第1季,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
+向山海出发1-1,http://hwottcdn.ln.chinamobile.com/36/16/88888888/278520362/index.m3u8
+向山海出发1-2,http://hwottcdn.ln.chinamobile.com/36/16/88888888/278163988/index.m3u8
+向山海出发1-3,http://hwottcdn.ln.chinamobile.com/36/16/88888888/278525350/index.m3u8
+向山海出发1-4,http://hwottcdn.ln.chinamobile.com/36/16/88888888/278522046/index.m3u8
+向山海出发1-5,http://hwottcdn.ln.chinamobile.com/36/16/88888888/278271805/index.m3u8
+向山海出发1-6,http://hwottcdn.ln.chinamobile.com/36/16/88888888/278522040/index.m3u8
+向山海出发1-7,http://hwottcdn.ln.chinamobile.com/36/16/88888888/278304395/index.m3u8
+向山海出发1-8,http://hwottcdn.ln.chinamobile.com/36/16/88888888/278331379/index.m3u8
+向山海出发1-9,http://hwottcdn.ln.chinamobile.com/36/16/88888888/278394351/index.m3u8
+向山海出发1-10,http://hwottcdn.ln.chinamobile.com/36/16/88888888/278436690/index.m3u8
+
+向山海出发 第2季,#genre#
+向山海出发 第2季,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
+向山海出发2-1,http://hwottcdn.ln.chinamobile.com/36/16/88888888/280210520/index.m3u8
+向山海出发2-2,http://hwottcdn.ln.chinamobile.com/36/16/88888888/280249464/index.m3u8
+向山海出发2-3,http://hwottcdn.ln.chinamobile.com/36/16/88888888/280302392/index.m3u8
+向山海出发2-4,http://hwottcdn.ln.chinamobile.com/36/16/88888888/280348731/index.m3u8
+向山海出发2-5,http://hwottcdn.ln.chinamobile.com/36/16/88888888/280390660/index.m3u8
+向山海出发2-6,http://hwottcdn.ln.chinamobile.com/36/16/88888888/280433476/index.m3u8
+向山海出发2-7,http://hwottcdn.ln.chinamobile.com/36/16/88888888/280470375/index.m3u8
+向山海出发2-8,http://hwottcdn.ln.chinamobile.com/36/16/88888888/280515068/index.m3u8
 
 向山海出发 第3季,#genre#
 向山海出发 第3季,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
 向山海出发3-1,http://hwottcdn.ln.chinamobile.com/36/16/88888888/281862930/index.m3u8
 向山海出发3-2,http://hwottcdn.ln.chinamobile.com/36/16/88888888/281917164/index.m3u8
+向山海出发3-3,http://hwottcdn.ln.chinamobile.com/36/16/88888888/281963579/index.m3u8
 
 脱口秀和Ta的朋友们 第2季,#genre#
 脱口秀和Ta的朋友们 第2季,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
