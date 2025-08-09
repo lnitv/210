@@ -231,7 +231,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221227359/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221227487/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/lnitv/tvg/CCTV-16aolinpike.png" group-title="4K 专区",CCTV-16奥林匹克
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221227416/index.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/lnitv/tvg/CCTV-4Kchaogaoqing" group-title="4K 专区",CCTV-4K超高清
+#EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/lnitv/tvg/CCTV-4Kchaogaoqing.png" group-title="4K 专区",CCTV-4K超高清
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221227516/index.m3u8
 #EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/lnitv/tvg/beijingweishi.png" group-title="4K 专区",北京卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221227532/index.m3u8
