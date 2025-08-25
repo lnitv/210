@@ -15,6 +15,10 @@
 地球超新鲜-2下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281974867/index.m3u8
 地球超新鲜-3上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282000122/index.m3u8
 地球超新鲜-3下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282009622/index.m3u8
+地球超新鲜-4上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282051209/index.m3u8
+地球超新鲜-4下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282059044/index.m3u8
+地球超新鲜-5上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282113727/index.m3u8
+地球超新鲜-5下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282116373/index.m3u8
 
 向山海出发 第1季,#genre#
 向山海出发 第1季,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
@@ -47,6 +51,7 @@
 向山海出发3-3,http://hwottcdn.ln.chinamobile.com/36/16/88888888/281963579/index.m3u8
 向山海出发3-4,http://hwottcdn.ln.chinamobile.com/36/16/88888888/281996882/index.m3u8
 向山海出发3-5,http://hwottcdn.ln.chinamobile.com/36/16/88888888/282050841/index.m3u8
+向山海出发3-6,http://hwottcdn.ln.chinamobile.com/36/16/88888888/282112471/index.m3u8
 
 脱口秀和Ta的朋友们 第2季,#genre#
 脱口秀和Ta的朋友们 第2季,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
