@@ -2,26 +2,65 @@
 映前秀,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
 
 倩女幽魂,#genre#
-倩女幽魂,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
 倩女幽魂-2-人间道,http://hwottcdn.ln.chinamobile.com/88888892/16/20241014/280214957/index.m3u8
 倩女幽魂-3-道道道,http://hwottcdn.ln.chinamobile.com/88888892/16/20240920/280091170/index.m3u8
 
 地球超新鲜,#genre#
-地球超新鲜,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
-地球超新鲜-预告片,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281860592/index.m3u8
-地球超新鲜-1上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281920062/index.m3u8
-地球超新鲜-1下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281921831/index.m3u8
-地球超新鲜-2上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281966765/index.m3u8
-地球超新鲜-2下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281974867/index.m3u8
-地球超新鲜-3上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282000122/index.m3u8
-地球超新鲜-3下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282009622/index.m3u8
-地球超新鲜-4上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282051209/index.m3u8
-地球超新鲜-4下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282059044/index.m3u8
-地球超新鲜-5上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282113727/index.m3u8
-地球超新鲜-5下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282116373/index.m3u8
+预告片,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281860592/index.m3u8
+1上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281920062/index.m3u8
+1下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281921831/index.m3u8
+2上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281966765/index.m3u8
+2下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281974867/index.m3u8
+3上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282000122/index.m3u8
+3下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282009622/index.m3u8
+4上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282051209/index.m3u8
+4下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282059044/index.m3u8
+5上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282113727/index.m3u8
+5下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282116373/index.m3u8
+6上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282144742/index.m3u8
+6下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282145260/index.m3u8
 
-向山海出发 第1季,#genre#
-向山海出发 第1季,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
+D3季 向山海出发,#genre#
+3季-1,http://hwottcdn.ln.chinamobile.com/36/16/88888888/281862930/index.m3u8
+3季-2,http://hwottcdn.ln.chinamobile.com/36/16/88888888/281917164/index.m3u8
+3季-3,http://hwottcdn.ln.chinamobile.com/36/16/88888888/281963579/index.m3u8
+3季-4,http://hwottcdn.ln.chinamobile.com/36/16/88888888/281996882/index.m3u8
+3季-5,http://hwottcdn.ln.chinamobile.com/36/16/88888888/282050841/index.m3u8
+3季-6,http://hwottcdn.ln.chinamobile.com/36/16/88888888/282112471/index.m3u8
+3季-7,http://hwottcdn.ln.chinamobile.com/36/16/88888888/282136742/index.m3u8
+
+D2季 脱口秀和Ta的朋友们,#genre#
+2季-1上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281726234/index.m3u8
+2季-1下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281732200/index.m3u8
+2季-2上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281734434/index.m3u8
+2季-2下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281731007/index.m3u8
+2季-3上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281766647/index.m3u8
+2季-3下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281772298/index.m3u8
+2季-4上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281775894/index.m3u8
+2季-4下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281772419/index.m3u8
+2季-5上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281819799/index.m3u8
+2季-5中,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281829595/index.m3u8
+2季-5下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281827134/index.m3u8
+2季-6上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281857863/index.m3u8
+2季-6下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281858459/index.m3u8
+2季-7上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281915191/index.m3u8
+2季-7下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281917812/index.m3u8
+
+D3季 朋友请吃饭,#genre#
+3季-1上,http://hwottcdn.ln.chinamobile.com/34/16/20250522/281483079/index.m3u8
+3季-1下,http://hwottcdn.ln.chinamobile.com/34/16/20250529/281523842/index.m3u8
+3季-2上,http://hwottcdn.ln.chinamobile.com/34/16/20250605/281579994/index.m3u8
+3季-2下,http://hwottcdn.ln.chinamobile.com/34/16/20250612/281632637/index.m3u8
+3季-3上,http://hwottcdn.ln.chinamobile.com/34/16/20250619/281678570/index.m3u8
+3季-3下,http://hwottcdn.ln.chinamobile.com/34/16/20250626/281721629/index.m3u8
+3季-4上,http://hwottcdn.ln.chinamobile.com/34/16/20250703/281763263/index.m3u8
+3季-4下,http://hwottcdn.ln.chinamobile.com/34/16/20250710/281819146/index.m3u8
+3季-5上,http://hwottcdn.ln.chinamobile.com/34/16/20250717/281857162/index.m3u8
+3季-5下,http://hwottcdn.ln.chinamobile.com/34/16/20250724/281910676/index.m3u8
+6上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281947943/index.m3u8
+6下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281987450/index.m3u8
+
+向山海出发-1季,#genre#
 向山海出发1-1,http://hwottcdn.ln.chinamobile.com/36/16/88888888/278520362/index.m3u8
 向山海出发1-2,http://hwottcdn.ln.chinamobile.com/36/16/88888888/278163988/index.m3u8
 向山海出发1-3,http://hwottcdn.ln.chinamobile.com/36/16/88888888/278525350/index.m3u8
@@ -33,8 +72,7 @@
 向山海出发1-9,http://hwottcdn.ln.chinamobile.com/36/16/88888888/278394351/index.m3u8
 向山海出发1-10,http://hwottcdn.ln.chinamobile.com/36/16/88888888/278436690/index.m3u8
 
-向山海出发 第2季,#genre#
-向山海出发 第2季,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
+向山海出发-2季,#genre#
 向山海出发2-1,http://hwottcdn.ln.chinamobile.com/36/16/88888888/280210520/index.m3u8
 向山海出发2-2,http://hwottcdn.ln.chinamobile.com/36/16/88888888/280249464/index.m3u8
 向山海出发2-3,http://hwottcdn.ln.chinamobile.com/36/16/88888888/280302392/index.m3u8
@@ -44,22 +82,7 @@
 向山海出发2-7,http://hwottcdn.ln.chinamobile.com/36/16/88888888/280470375/index.m3u8
 向山海出发2-8,http://hwottcdn.ln.chinamobile.com/36/16/88888888/280515068/index.m3u8
 
-向山海出发 第3季,#genre#
-向山海出发 第3季,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
-向山海出发3-1,http://hwottcdn.ln.chinamobile.com/36/16/88888888/281862930/index.m3u8
-向山海出发3-2,http://hwottcdn.ln.chinamobile.com/36/16/88888888/281917164/index.m3u8
-向山海出发3-3,http://hwottcdn.ln.chinamobile.com/36/16/88888888/281963579/index.m3u8
-向山海出发3-4,http://hwottcdn.ln.chinamobile.com/36/16/88888888/281996882/index.m3u8
-向山海出发3-5,http://hwottcdn.ln.chinamobile.com/36/16/88888888/282050841/index.m3u8
-向山海出发3-6,http://hwottcdn.ln.chinamobile.com/36/16/88888888/282112471/index.m3u8
-
-脱口秀和Ta的朋友们 第2季,#genre#
-脱口秀和Ta的朋友们 第2季,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
-脱口秀和Ta的朋友们2-1上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281726234/index.m3u8
-脱口秀和Ta的朋友们2-1下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281732200/index.m3u8
-
-奔跑吧第十三季,#genre#
-奔跑吧第十三季,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
+奔跑吧-十三季,#genre#
 奔跑吧-1-250421,http://hwottcdn.ln.chinamobile.com/36/16/20250422/281314337/index.m3u8
 奔跑吧-2-250425,http://hwottcdn.ln.chinamobile.com/36/16/20250426/281339375/index.m3u8
 奔跑吧-3-250502,http://hwottcdn.ln.chinamobile.com/36/16/20250503/281374869/index.m3u8
@@ -76,7 +99,6 @@
 奔跑吧-14-250718,http://hwottcdn.ln.chinamobile.com/36/16/20250719/281864869/index.m3u8
 
 歌手2025,#genre#
-歌手2025,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
 歌手2025-1,http://hwottcdn.ln.chinamobile.com/67/16/20250517/281450227/index.m3u8
 歌手2025-2,http://hwottcdn.ln.chinamobile.com/67/16/20250523/281498188/index.m3u8
 歌手2025-3,http://hwottcdn.ln.chinamobile.com/67/16/20250530/281540209/index.m3u8
@@ -89,21 +111,7 @@
 歌手2025-10,http://hwottcdn.ln.chinamobile.com/67/16/20250718/281856461/index.m3u8
 歌手2025-11,http://hwottcdn.ln.chinamobile.com/67/16/20250725/281918134/index.m3u8
 
-朋友请吃饭第三季,#genre#
-朋友请吃饭第三季,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
-第1期上,http://hwottcdn.ln.chinamobile.com/34/16/20250522/281483079/index.m3u8
-第1期下,http://hwottcdn.ln.chinamobile.com/34/16/20250529/281523842/index.m3u8
-第2期上,http://hwottcdn.ln.chinamobile.com/34/16/20250605/281579994/index.m3u8
-第2期下,http://hwottcdn.ln.chinamobile.com/34/16/20250612/281632637/index.m3u8
-第3期上,http://hwottcdn.ln.chinamobile.com/34/16/20250619/281678570/index.m3u8
-第3期下,http://hwottcdn.ln.chinamobile.com/34/16/20250626/281721629/index.m3u8
-第4期上,http://hwottcdn.ln.chinamobile.com/34/16/20250703/281763263/index.m3u8
-第4期下,http://hwottcdn.ln.chinamobile.com/34/16/20250710/281819146/index.m3u8
-第5期上,http://hwottcdn.ln.chinamobile.com/34/16/20250717/281857162/index.m3u8
-第5期下,http://hwottcdn.ln.chinamobile.com/34/16/20250724/281910676/index.m3u8
-
 一见你就笑,#genre#
-一见你就笑,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
 一见你就笑-1,http://hwottcdn.ln.chinamobile.com/34/16/20250418/281298778/index.m3u8
 一见你就笑-2,http://hwottcdn.ln.chinamobile.com/34/16/20250423/281328811/index.m3u8
 一见你就笑-3,http://hwottcdn.ln.chinamobile.com/34/16/20250430/281364887/index.m3u8
@@ -122,7 +130,6 @@
 一见你就笑-16,http://hwottcdn.ln.chinamobile.com/34/16/20250730/281943318/index.m3u8
 
 遮天,#genre#
-遮天,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
 遮天-91,http://hwottcdn.ln.chinamobile.com/34/16/20250108/280707371/index.m3u8
 遮天-92,http://hwottcdn.ln.chinamobile.com/34/16/20250115/280754299/index.m3u8
 遮天-93,http://hwottcdn.ln.chinamobile.com/34/16/20250122/280787624/index.m3u8
@@ -155,7 +162,6 @@
 遮天-120,http://hwottcdn.ln.chinamobile.com/34/16/20250730/281943211/index.m3u8
 
 仙逆,#genre#
-仙逆,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
 仙逆剧场版-神临之战,http://hwottcdn.ln.chinamobile.com/34/16/20250530/281534000/index.m3u8
 仙逆-61,http://hwottcdn.ln.chinamobile.com/34/16/20241104/280353223/index.m3u8
 仙逆-62,http://hwottcdn.ln.chinamobile.com/34/16/20241111/280388399/index.m3u8
@@ -198,7 +204,6 @@
 仙逆-99,http://hwottcdn.ln.chinamobile.com/34/16/20250728/281925583/index.m3u8
 
 灵笼,#genre#
-灵笼,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
 灵笼-1,http://hwottcdn.ln.chinamobile.com/11/16/20230310/277409266/index.m3u8
 灵笼-2,http://hwottcdn.ln.chinamobile.com/11/16/20230310/277405181/index.m3u8
 灵笼-3,http://hwottcdn.ln.chinamobile.com/11/16/20230310/277409269/index.m3u8
@@ -216,8 +221,7 @@
 灵笼-15,http://hwottcdn.ln.chinamobile.com/11/16/20230310/277406853/index.m3u8
 灵笼-16,http://hwottcdn.ln.chinamobile.com/11/16/20230310/277406856/index.m3u8
 
-天赐的声音第六季,#genre#
-天赐的声音第六季,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
+天赐的声音-六季,#genre#
 天赐的声音-1,http://hwottcdn.ln.chinamobile.com/36/16/20250419/281300529/index.m3u8
 天赐的声音-2,http://hwottcdn.ln.chinamobile.com/36/16/20250426/281345179/index.m3u8
 天赐的声音-3,http://hwottcdn.ln.chinamobile.com/36/16/20250503/281374866/index.m3u8
@@ -231,8 +235,7 @@
 天赐的声音-11,http://hwottcdn.ln.chinamobile.com/36/16/20250628/281729972/index.m3u8
 天赐的声音-12,http://hwottcdn.ln.chinamobile.com/36/16/20250705/281775741/index.m3u8
 
-5哈-第五季,#genre#
-5哈-第五季,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
+5哈-五季,#genre#
 五哈-1上,http://hwottcdn.ln.chinamobile.com/34/16/20250412/281254007/index.m3u8
 五哈-1下,http://hwottcdn.ln.chinamobile.com/34/16/20250413/281261668/index.m3u8
 五哈-2上,http://hwottcdn.ln.chinamobile.com/34/16/20250419/281300430/index.m3u8
@@ -259,7 +262,6 @@
 五哈-12下,http://hwottcdn.ln.chinamobile.com/34/16/20250629/281740177/index.m3u8
 
 这是我的西游,#genre#
-这是我的西游,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
 先导,https://vip.dytt-hot.com/20250425/87808_d1580ffa/index.m3u8
 20250425上,https://vip.dytt-cinema.com/20250425/21158_cb07b2d1/index.m3u8
 20250425下,https://vip.dytt-cinema.com/20250425/21159_8336a44c/index.m3u8
@@ -317,7 +319,6 @@
 20250630(试炼场),https://vip.dytt-hot.com/20250630/95499_433d4602/index.m3u8
 
 刑警的日子,#genre#
-刑警的日子,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
 刑警的日子-1,http://hwottcdn.ln.chinamobile.com/34/16/20250505/281382526/index.m3u8
 刑警的日子-2,http://hwottcdn.ln.chinamobile.com/34/16/20250505/281379120/index.m3u8
 刑警的日子-3,http://hwottcdn.ln.chinamobile.com/34/16/20250505/281376188/index.m3u8
@@ -344,8 +345,7 @@
 刑警的日子-24,http://hwottcdn.ln.chinamobile.com/34/16/20250516/281443499/index.m3u8
 刑警的日子-25,http://hwottcdn.ln.chinamobile.com/34/16/20250516/281449846/index.m3u8
 
-海绵宝宝第十二季,#genre#
-海绵宝宝第十二季,https://cdn.jsdelivr.net/gh/lnitv/name/yqx/playlist.m3u8
+海绵宝宝-十二季,#genre#
 海绵宝宝-1,http://hwottcdn.ln.chinamobile.com/11/16/20240522/279439863/index.m3u8
 海绵宝宝-2,http://hwottcdn.ln.chinamobile.com/11/16/20240523/279441500/index.m3u8
 海绵宝宝-3,http://hwottcdn.ln.chinamobile.com/11/16/20240523/279441503/index.m3u8
@@ -374,7 +374,7 @@
 谍网追凶(原音),http://ltcottcdnfh.ln.chinamobile.com/50/16/88888888/281894141/index.m3u8
 不说话的爱 (2025),http://hwottcdn.ln.chinamobile.com/113/16/20250516/281444347/index.m3u8
 超级望望‎ (2025),http://hwottcdn.ln.chinamobile.com/113/16/20250311/281043018/index.m3u8
-第二十条‎ (2024),http://hwottcdn.ln.chinamobile.com/88888892/16/20241218/280614516/index.m3u8
+3季-二十条‎ (2024),http://hwottcdn.ln.chinamobile.com/88888892/16/20241218/280614516/index.m3u8
 雄狮少年2,http://hwottcdn.ln.chinamobile.com/11/16/20250530/281531052/index.m3u8
 碟中谍1 (1996),http://hwottcdn.ln.chinamobile.com/50/16/20211230/275984835/index.m3u8
 碟中谍2 (2000),http://hwottcdn.ln.chinamobile.com/50/16/20220721/276681059/index.m3u8
