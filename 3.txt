@@ -19,6 +19,10 @@
 5下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282116373/index.m3u8
 6上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282144742/index.m3u8
 6下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282145260/index.m3u8
+7上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282163107/index.m3u8
+7下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282162422/index.m3u8
+8上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282207882/index.m3u8
+8下,http://hwottcdn.ln.chinamobile.com/34/16/88888888/282212677/index.m3u8
 
 D3季 向山海出发,#genre#
 3季-1,http://hwottcdn.ln.chinamobile.com/36/16/88888888/281862930/index.m3u8
@@ -28,6 +32,7 @@ D3季 向山海出发,#genre#
 3季-5,http://hwottcdn.ln.chinamobile.com/36/16/88888888/282050841/index.m3u8
 3季-6,http://hwottcdn.ln.chinamobile.com/36/16/88888888/282112471/index.m3u8
 3季-7,http://hwottcdn.ln.chinamobile.com/36/16/88888888/282136742/index.m3u8
+3季-8,http://hwottcdn.ln.chinamobile.com/36/16/88888888/282162325/index.m3u8
 
 D2季 脱口秀和Ta的朋友们,#genre#
 2季-1上,http://hwottcdn.ln.chinamobile.com/34/16/88888888/281726234/index.m3u8
