@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz" x-tvg-url="http://e.erw.cc/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" x-tvg-timeout="5" x-tvg-cache="480" x-tvg-retries="1"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/lnitv/tvg/CCTV-1zonghe.png" group-title="央视频道" x-tvg-stream-name="8M『线路-1』|8M『线路-2』|8M『线路-3』|8M『线路-4』|8M『线路-5』|3M『线路-6』|3M『线路-7』|3M『线路-8』|2M『线路-9』|2M『线路-10』|2M『线路-11』|2M『线路-12』",CCTV-1综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/lnitv/tvg/CCTV-1zonghe.png" group-title="央视频道",CCTV-3综合
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226675/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221227714/index.m3u8
